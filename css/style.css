@@ -29,6 +29,16 @@ body {
 }
 .section-2{
     margin-top:144px;
+
+}
+.block{
+    color:#38BDFE;
+    font-family: Mukta;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 28px;
+margin-top:24px;
 }
 
 /*typography*/
@@ -107,10 +117,20 @@ padding:32px;
     align-items: center;
     margin-right: 30px;
     margin-left: 0px;
-
-
+}
+.flex-container1 {
+    display: flex;
+margin-top:40px;
+    flex-direction: row;
+    color:#38BDFE;
 
 }
+.flex-container1 > div {
+    width: 270px;
+    height: 242px;
+
+}
+
 
 /*header*/
 
@@ -171,6 +191,14 @@ p{
 
 
     color: #1E1E1E
+}
+p2{
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 28px;
+    color:#1E1E1E;
 }
 
 
