@@ -43,17 +43,6 @@ margin-top:24px;
 
 /*typography*/
 
-h6 {
-    font-family: Mukta;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 18px;
-    line-height: 28px;
-    text-transform: uppercase;
-    color: #FFFFFF;
-
-
-}
 
 h1 {
     font-family: Mukta;
@@ -62,7 +51,6 @@ h1 {
     font-size: 60px;
     line-height: 72px;
     color: #FFFFFF;
-
 }
 h2{
     font-family: Muli;
@@ -87,8 +75,42 @@ h3 {
     display: flex;
     align-items: center;
     color: #FFFFFF;
-
 }
+h4 {
+    height: 28px;
+    left: 32px;
+    right: 32px;
+    top: 32px;
+    font-family: Muli;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    padding-top:32px;
+}
+h5 {
+    font-family: Mukta;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 28px;
+    color: #6E7A82;
+    text-align: center;
+}
+
+h6 {
+    font-family: Mukta;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 28px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+/*header*/
+
 
 ul {
     list-style-type: none;
@@ -97,45 +119,8 @@ ul {
     overflow: hidden;
 
 }
-
-
-
-.flex-container {
-    display: flex;
-
-    margin-top:174px;
-
-}
-.flex-container > div {
-    background-color:#FFFFFF;
-    font-family: Muli;
-    font-style: normal;
-    font-weight: normal;
-    line-height: 26px;
-padding:32px;
-    display: flex;
-    align-items: center;
-    margin-right: 30px;
-    margin-left: 0px;
-}
-.flex-container1 {
-    display: flex;
-margin-top:40px;
-    flex-direction: row;
-    color:#38BDFE;
-
-}
-.flex-container1 > div {
-    width: 270px;
-    height: 242px;
-
-}
-
-
-/*header*/
-
 nav li a
- {
+{
     display: block;
     text-align: center;
     text-decoration: none;
@@ -147,7 +132,6 @@ nav li a
     align-items: center;
     color: #DBE2E9;
     float: right;
-
 }
 nav li{
     display: inline-block;
@@ -174,52 +158,25 @@ li a:hover {
     color: #DBE2E9;
 }
 
-.header_1 {
-    margin-top: 276px;
-    position: absolute;
+
+.flex-container {
+    display: flex;
+
+    margin-top:174px;
+
 }
-p{
-    padding-top:16px;
+.flex-container > div {
+    background-color:#FFFFFF;
     font-family: Muli;
     font-style: normal;
     font-weight: normal;
-    font-size: 16px;
     line-height: 26px;
-
+    padding:32px;
     display: flex;
     align-items: center;
-
-
-    color: #1E1E1E
+    margin-right: 30px;
+    margin-left: 0px;
 }
-p2{
-    font-family: Source Sans Pro;
-    font-style: normal;
-    font-weight: 600;
-    font-size: 20px;
-    line-height: 28px;
-    color:#1E1E1E;
-}
-
-
-
-
-h4 {
-    height: 28px;
-    left: 32px;
-    right: 32px;
-    top: 32px;
-    font-family: Muli;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 22px;
-    line-height: 28px;
-    display: flex;
-    align-items: center;
-padding-top:32px;
-}
-
-
 .link {
     font-family: Mukta;
     font-style: normal;
@@ -229,16 +186,23 @@ padding-top:32px;
     display: flex;
     align-items: center;
     text-align: center;
-padding-bottom:32px;
+    padding-bottom:32px;
     color: #38BDFE
 }
+.flex-container1 {
+    display: flex;
+    margin-top:40px;
+    flex-direction: row;
+    color:#38BDFE;
+}
+.flex-container1 > div {
+    width: 270px;
+    height: 242px;
 
-.block a {
-    position: absolute;
-    height: 78px;
-    left: 32px;
-    right: 32px;
-    top: 76px;
+}
+
+p{
+    padding-top:16px;
     font-family: Muli;
     font-style: normal;
     font-weight: normal;
@@ -246,22 +210,26 @@ padding-bottom:32px;
     line-height: 26px;
     display: flex;
     align-items: center;
-    color: #1E1E1E;
+    color: #1E1E1E
 }
-h5{
+.price{
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 28px;
+    color:#1E1E1E;
+}
 
+
+.title{
     font-family: Mukta;
     font-style: normal;
     font-weight: bold;
     font-size: 18px;
     line-height: 28px;
-    color: #6E7A82;
-    text-align:center;
-
-}
-.section{
-    height: 1024px;
-    left: 0px;
-    top: 1000px;
-    background-color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    text-transform: uppercase;
+    color: #38BDFE;
 }
