@@ -25,7 +25,7 @@ body {
 
 }
 .section-1{
-  margin-top:-696px;
+    margin-top:-696px;
 }
 .section-2{
     margin-top:144px;
@@ -38,7 +38,7 @@ body {
     font-weight: bold;
     font-size: 18px;
     line-height: 28px;
-margin-top:24px;
+    margin-top:24px;
 }
 
 /*typography*/
@@ -59,7 +59,7 @@ h2{
     font-size: 40px;
     line-height: 48px;
     text-align:center;
-   color: #1E1E1E;
+    color: #1E1E1E;
 }
 
 h3 {
@@ -257,7 +257,7 @@ p{
     line-height: 24px;
     text-align: center;
     display:inline-block;
-margin-right:30px;
+    margin-right:30px;
 
 }
 .button1 {
@@ -277,7 +277,7 @@ margin-right:30px;
 .flex-container2{
     display: flex;
     flex-direction: row;
-margin-top:14px;
+    margin-top:14px;
     margin-left:-445px;
 
 }
@@ -287,13 +287,13 @@ margin-top:14px;
     height:500px;
 }
 
-.text{
+.title1{
     margin-top:144px;
     align-items: center;
     text-align: center;
     color:#FFFFFF;
 }
-.text1{
+.title2{
     margin-top:38px;
     align-items: center;
     text-align: center;
@@ -317,7 +317,7 @@ margin-top:14px;
     background-color:#1E1E1E;
     height:1200px;
 }
-.text2{
+.title3{
     margin-top:144px;
 
     align-items: center;
@@ -325,27 +325,27 @@ margin-top:14px;
     text-transform: uppercase;
     color: #FFFFFF;
 }
-.text3{
+.title4{
     margin-top:40px;
     align-items: center;
     text-align: center;
     color: #FFFFFF;
 }
-.text4{
+.title5{
     margin-top:72px;
     align-items: center;
     text-align: center;
     color: #FFFFFF;
 
 }
-.text5{
+.title6{
     line-height: 72px;
     display: flex;
     align-items: center;
     color: #38BDFE;
 
 }
-.text6{
+.title7{
     display: flex;
     align-items: center;
     line-height: 28px;
@@ -354,7 +354,7 @@ margin-top:14px;
 
 
 }
-.text7{
+.block-1{
     line-height: 26px;
     display: flex;
     align-items: center;
@@ -403,7 +403,7 @@ margin-top:14px;
 
     margin-top:60px;
 }
-.text9{
+.title9{
     font-weight: 300;
     line-height: 28px;
 
@@ -417,22 +417,22 @@ margin-top:14px;
     background-color: #FFFFFF;
     height: 561px;
 }
-.text10{
+.title8{
 
-font-weight:bold;
-    color: #20B4FD;
-    margin-top:148px;
-    align-items: center;
-    text-align: center;
-}
-.text11{
     font-weight:bold;
     color: #20B4FD;
     margin-top:148px;
     align-items: center;
     text-align: center;
 }
-.text12{
+.title10{
+    font-weight:bold;
+    color: #20B4FD;
+    margin-top:148px;
+    align-items: center;
+    text-align: center;
+}
+.title11{
 
     color: #1E1E1E;
     margin-top:32px;
@@ -446,7 +446,7 @@ font-weight:bold;
 
 
 }
-.text13{
+.title12{
     color: #6E7A82;
     align-items: center;
     text-align: center;
@@ -455,14 +455,14 @@ font-weight:bold;
     font-weight: 300;
     font-size: 16px;
     line-height: 24px;
-margin-bottom:144px;
+    margin-bottom:144px;
 }
 .section-6{
     height: 662px;
     background-color: #1E1E1E;
 
 }
-.text14{
+.title13{
     margin-top:144px;
     align-items: center;
     text-align: center;
@@ -470,14 +470,14 @@ margin-bottom:144px;
     color: #FFFFFF;
 
 }
-.text15{
+.title14{
     line-height: 48px;
-  margin-top:4px;
+    margin-top:4px;
     align-items: center;
     text-align: center;
     color: #FFFFFF
 }
-.text16{
+.title15{
     margin-top:4px;
     font-weight: 300;
     line-height: 28px;
@@ -485,14 +485,14 @@ margin-bottom:144px;
     text-align: center;
     color: #FFFFFF;
 }
-.text17{
+.title16{
     font-weight: bold;
     line-height: 72px;
     display: flex;
     align-items: center;
     text-align: center;
-  color: #FFFFFF;
- margin-left:70px;
+    color: #FFFFFF;
+    margin-left:70px;
 }
 .flex-container3{
     margin-left:-400px;
@@ -509,7 +509,7 @@ margin-bottom:144px;
     align-items: center;
     text-align: center;
 }
-.text18 {
+.title17 {
     font-weight: 300;
     line-height: 28px;
     align-items: center;
@@ -535,7 +535,7 @@ margin-bottom:144px;
     color: #1E1E1E;
 
 }
-.text19{
+.title18{
     font-weight: 300;
     line-height: 24px;
     align-items: center;
