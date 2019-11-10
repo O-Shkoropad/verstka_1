@@ -350,9 +350,6 @@ p{
     align-items: center;
     line-height: 28px;
     color: #FFFFFF;
-
-
-
 }
 .block-1{
     line-height: 26px;
@@ -403,32 +400,31 @@ p{
 
     margin-top:60px;
 }
+
+.section-5{
+    background-color: #FFFFFF;
+    height: 761px;
+}
+.title8{
+    font-weight:bold;
+    color: #20B4FD;
+    margin-top:148px;
+    align-items: center;
+    text-align: center;
+}
 .title9{
     font-weight: 300;
     line-height: 28px;
-
     align-items: center;
     text-align: center;
     color: #1E1E1E;
     margin-top:36px;
 
 }
-.section5{
-    background-color: #FFFFFF;
-    height: 561px;
-}
-.title8{
-
-    font-weight:bold;
-    color: #20B4FD;
-    margin-top:148px;
-    align-items: center;
-    text-align: center;
-}
 .title10{
     font-weight:bold;
     color: #20B4FD;
-    margin-top:148px;
+    margin-top:32px;
     align-items: center;
     text-align: center;
 }
