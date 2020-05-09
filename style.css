@@ -1,36 +1,15 @@
 body {
     margin: 0;
-    font-family: Muli, Mukta;
+    $font-family-sans-serif:
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    "Roboto",
+    "Helvetica Neue", Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
 }
 
-/*section*/
-.section-1{
-    margin-top:-696px;
-}
-.section-2{
-    height:1024px;
 
-}
-.section-3{
-    background-color: #08213E;
-    height:500px;
-}
-.section-4{
-    background-color:#1E1E1E;
-    height:1200px;
-}
-.section-5{
-    background-color: #FFFFFF;
-    height: 761px;
-}
-.section-6{
-      height: 662px;
-      background-color: #1E1E1E;
-  }
-.section-7{
-    height: 364px;
-    background-color: #FFFFFF;
-}
 .block{
     color:#38BDFE;
     font-family: Mukta;
