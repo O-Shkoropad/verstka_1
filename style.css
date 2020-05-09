@@ -106,7 +106,7 @@ h6 {
     font-weight: bold;
     font-size: 18px;
     line-height: 28px;
-
+text-transform:uppercase;
     color: #FFFFFF;
 }
 
@@ -164,11 +164,11 @@ nav ul{
     text-align: right;
 }
 
-.brand > a{
+.brand_logo > a{
     display: flex;
     align-items: center;
 }
-.brand a img{
+.brand_logo a img{
     margin-right: 12px;
 }
 
@@ -252,6 +252,7 @@ p{
     align-items: center;
     text-transform: uppercase;
     color: #38BDFE;
+
 }
 .button {
     font-family: Mukta;
