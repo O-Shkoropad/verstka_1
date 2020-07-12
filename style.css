@@ -90,6 +90,27 @@ text-transform:uppercase;
 }
 
 /*header*/
+
+/*section*/
+.section--xs{
+    padding-top:28px;
+    padiing-bottom:24px;
+}
+.section--l{
+    padding-top:148px;
+    padiing-bottom:144px;
+}
+.section--s{
+    padding-top:56px;
+    padiing-bottom:56px;
+}
+.section--xl{
+    padding-top:196px;
+    padiing-bottom:84px;
+}
+
+
+
 .header  {
     height:1000px;
     background-color: #08213E;
