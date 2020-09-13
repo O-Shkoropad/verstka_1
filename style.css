@@ -112,10 +112,9 @@ text-transform:uppercase;
 
 
 .header  {
-    height:1000px;
     background-color: #08213E;
     padding:28px 0;
-    background-image: url("images_Background.png");
+    background-image: url("images_Background image.png");
     background-blend-mode: overlay;
 }
 
