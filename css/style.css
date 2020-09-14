@@ -1,36 +1,15 @@
 body {
     margin: 0;
-    font-family: Muli, Mukta;
+    $font-family-sans-serif:
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    "Roboto",
+    "Helvetica Neue", Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
 }
 
-/*section*/
-.section-1{
-    margin-top:-696px;
-}
-.section-2{
-    height:1024px;
 
-}
-.section-3{
-    background-color: #08213E;
-    height:500px;
-}
-.section-4{
-    background-color:#1E1E1E;
-    height:1200px;
-}
-.section-5{
-    background-color: #FFFFFF;
-    height: 761px;
-}
-.section-6{
-      height: 662px;
-      background-color: #1E1E1E;
-  }
-.section-7{
-    height: 364px;
-    background-color: #FFFFFF;
-}
 .block{
     color:#38BDFE;
     font-family: Mukta;
@@ -89,6 +68,7 @@ h4 {
     display: flex;
     align-items: center;
     padding-top:32px;
+
 }
 h5 {
     font-family: Mukta;
@@ -104,19 +84,49 @@ h6 {
     font-family: Mukta;
     font-style: normal;
     font-weight: bold;
-    font-size: 18px;
+    font-size:18px;
     line-height: 28px;
+text-transform:uppercase;
+    color:white;
 
-    color: #FFFFFF;
 }
 
 /*header*/
+
+/*section*/
+.section--xs{
+    padding-top:28px;
+    padiing-bottom:24px;
+}
+.section--l{
+    padding-top:148px;
+    padiing-bottom:144px;
+}
+.section--s{
+    padding-top:56px;
+    padiing-bottom:56px;
+}
+.section--xl{
+    padding-top:196px;
+    padiing-bottom:84px;
+}
+.section--xxl{
+   background:#F7FAFC;
+}
+.box1{
+    padding-top:144px;
+    padding-bottom:144px;
+    text-align:center;
+}
+
+
+
 .header  {
-    height:1000px;
     background-color: #08213E;
     padding:28px 0;
-    background-image: url("images_Background.png");
+    background-image: url("images_Background image.png");
     background-blend-mode: overlay;
+
 }
 
 .logo {
@@ -164,11 +174,11 @@ nav ul{
     text-align: right;
 }
 
-.brand > a{
+.brand_logo > a{
     display: flex;
     align-items: center;
 }
-.brand a img{
+.brand_logo a img{
     margin-right: 12px;
 }
 
@@ -252,8 +262,9 @@ p{
     align-items: center;
     text-transform: uppercase;
     color: #38BDFE;
+
 }
-.button {
+.button--primary {
     font-family: Mukta;
     font-style: normal;
     font-weight: 800;
@@ -264,39 +275,63 @@ p{
     align-items: center;
     text-align: center;
     padding:12px 44px;
-}
-.button1{
-    background-color:#38BDFE ;
+    background: #38BDFE;
+    border-radius: 28px;
     color: #EEF4FA;
     margin-right:30px;
-}
-.button2 {
-    background: #DBE2E9;
-    color: #43444B;
+    margin-left:400px;
 
+}
+.button--secondary{
+    font-family: Mukta;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #43444B;
+    background: #DBE2E9;
+    opacity: 0.3;
+    border-radius: 28px;
+    padding:12px 44px;
+
+}
+.button-group{
+    display:flex;
+    margin-top:64px;
+    text-align: center;
+    text-decoration: none;
+    margin-bottom:144px;
+}
+.button--thirty{
+    font-family: Mukta;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #EEF4FA;
+    margin-top:30px;
+    background: #38BDFE;
+    border-radius: 28px;
+    padding:12px 40px;
+    margin-left:460px;
+}
+
+.box{
+    padding:32px;
+    background: #FFFFFF;
 }
 .flex-container2 {
     margin-top:280px;
     margin-left:400px;
     display:flex;
 }
-.button3 {
-    background-color: #38BDFE;
-    color: #EEF4FA;
-    margin-top:40px;
-    margin-left:470px;
-}
-.button4 {
-    background-color:#38BDFE ;
-    color: #EEF4FA;
-    margin-right:30px;
 
-}
-.button5 {
-    background: #DBE2E9;
-    color: #43444B;
-
-}
 .title1{
     margin-top:144px;
     align-items: center;
@@ -344,6 +379,8 @@ p{
     line-height: 28px;
     color: #FFFFFF;
 }
+
+
 .block-1{
     line-height: 26px;
     display: flex;

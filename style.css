@@ -86,7 +86,8 @@ h6 {
     font-size: 18px;
     line-height: 28px;
 text-transform:uppercase;
-    color: #FFFFFF;
+    color:white;
+
 }
 
 /*header*/
@@ -116,11 +117,29 @@ text-transform:uppercase;
     padding:28px 0;
     background-image: url("images_Background image.png");
     background-blend-mode: overlay;
+height:1000px;
 
 }
 
+
+.button-group{
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    background: #38BDFE;
+    border-radius: 28px;
+    font-family: Mukta;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
 .logo {
-    width: 71px;
+    width: 7px;
     height: 28px;
     font-family: Mukta;
     font-style: normal;
@@ -345,6 +364,8 @@ p{
     line-height: 28px;
     color: #FFFFFF;
 }
+
+
 .block-1{
     line-height: 26px;
     display: flex;
