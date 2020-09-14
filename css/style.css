@@ -90,6 +90,21 @@ text-transform:uppercase;
     color:white;
 
 }
+h7{
+    font-family: Mukta;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 72px;
+    /* identical to box height, or 120% */
+
+    display: flex;
+    align-items: center;
+
+    /* --color-acent-400 */
+
+    color: #38BDFE;
+}
 
 /*header*/
 
@@ -101,6 +116,7 @@ text-transform:uppercase;
 .section--l{
     padding-top:148px;
     padiing-bottom:144px;
+
 }
 .section--s{
     padding-top:56px;
@@ -111,7 +127,12 @@ text-transform:uppercase;
     padiing-bottom:84px;
 }
 .section--xxl{
-   background:#F7FAFC;
+   background:url(priscilla-du-preez-181916-unsplash.jpg), #F7FAFC;
+}
+.section--ms{
+    padding-top:144px;
+    padiing-bottom:144px;
+    background:#1E1E1E;
 }
 .box1{
     padding-top:144px;
@@ -300,10 +321,10 @@ p{
 }
 .button-group{
     display:flex;
-    margin-top:64px;
+    padding-top:64px;
     text-align: center;
     text-decoration: none;
-    margin-bottom:144px;
+    padding-bottom:144px;
 }
 .button--thirty{
     font-family: Mukta;
