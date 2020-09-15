@@ -89,6 +89,7 @@ h6 {
 text-transform:uppercase;
     color:white;
 
+
 }
 h7{
     font-family: Mukta;
@@ -124,16 +125,28 @@ h7{
 }
 .section--xl{
     padding-top:196px;
-    padiing-bottom:84px;
+    padiing-bottom:696px;
 }
-.section--xxl{
-   background:url(priscilla-du-preez-181916-unsplash.jpg), #F7FAFC;
+
+
+
+.section--m{
+    padding-top:144px;
+    padiing-bottom:144px;
+
 }
-.section--ms{
+.section--mm{
     padding-top:144px;
     padiing-bottom:144px;
     background:#1E1E1E;
 }
+.section--ms{
+    padding-top:144px;
+    padiing-bottom:144px;
+    background:url(priscilla-du-preez-181916-unsplash.jpg), #F7FAFC;
+}
+
+
 .box1{
     padding-top:144px;
     padding-bottom:144px;
@@ -341,6 +354,7 @@ p{
     border-radius: 28px;
     padding:12px 40px;
     margin-left:460px;
+
 }
 
 .box{
