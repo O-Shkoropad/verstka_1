@@ -9,42 +9,6 @@ body {
     "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
 }
 
-.color{
-    color:#FFFFFF;
-}
-.color1{
-    font-family: Mukta;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 18px;
-    line-height: 28px;
-    align-items: center;
-    text-align: center;
-    text-transform: uppercase;
-    color: #FFFFFF;
-}
-.color2{
-    font-family: Mulish;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 40px;
-    line-height: 48px;
-    align-items: center;
-    text-align: center;
-    color: #FFFFFF;
-    padding-top:8px;
-}
-.color3{
-    font-family: Mulish;
-    font-style: normal;
-    font-weight: 300;
-    font-size: 18px;
-    line-height: 28px;
-    align-items: center;
-    text-align: center;
-    color: #FFFFFF;
-    padding-top:24px;
- }
 
 .block{
     color:#38BDFE;
@@ -66,6 +30,7 @@ h1 {
     font-size: 60px;
     line-height: 72px;
     color: #FFFFFF;
+
 }
 h2{
     font-family: Muli;
@@ -120,10 +85,12 @@ h6 {
     font-family: Mukta;
     font-style: normal;
     font-weight: bold;
-    font-size:18px;
+    font-size: 18px;
     line-height: 28px;
-    text-transform:uppercase;
-    color:white;
+padding-top:220px;
+    align-items: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
 
 
 }
@@ -133,13 +100,8 @@ h7{
     font-weight: bold;
     font-size: 60px;
     line-height: 72px;
-    /* identical to box height, or 120% */
-
     display: flex;
     align-items: center;
-
-    /* --color-acent-400 */
-
     color: #38BDFE;
 }
 
@@ -152,44 +114,57 @@ h7{
 }
 .section--l{
     padding-top:148px;
-    padiing-bottom:144px;
+    padding-bottom:144px;
 
 }
 .section--s{
     padding-top:56px;
-    padiing-bottom:56px;
+    padding-bottom:56px;
 }
 .section--xl{
     padding-top:196px;
-    padiing-bottom:696px;
+    paddiing-bottom:696px;
 }
 
 
 
 .section--m{
     padding-top:144px;
-    padiing-bottom:144px;
-
+    padding-bottom:144px;
 }
+
 .section--mm{
     padding-top:144px;
-    padiing-bottom:144px;
+    padding-bottom:144px;
     background:#1E1E1E;
 }
 .section--ms{
     padding-top:144px;
-    padiing-bottom:144px;
-    background:url(priscilla-du-preez-181916-unsplash.jpg), #F7FAFC;
-}
-
-
-.box1{
-    padding-top:144px;
     padding-bottom:144px;
-    text-align:center;
+    background:url(priscilla-du-preez-181916-unsplash.jpg), #F7FAFC;
+
 }
 
 
+
+.brand__logo > a{
+    display: flex;
+    align-items: center;
+}
+.brand__logo a img{
+    margin-right: 12px;
+}
+
+.brand__name{
+    color: #DBE2E9;
+    font-family: Mukta;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 28px;
+    align-items: center;
+    width: 71px;
+    height: 28px;
+}
 
 .header  {
     background-color: #08213E;
@@ -208,7 +183,7 @@ h7{
     font-size: 20px;
     line-height: 28px;
     align-items: center;
-    color: #DBE2E9;
+    color:#38BDFE;
 }
 
 ul {
@@ -244,18 +219,293 @@ nav ul{
     text-align: right;
 }
 
-.brand_logo > a{
-    display: flex;
-    align-items: center;
-}
-.brand_logo a img{
-    margin-right: 12px;
-}
+
 
 li a:hover {
     text-decoration: none;
     color: #DBE2E9;
 }
+.string h5{
+    font-family: Mukta;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 28px;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    color: #6E7A82;
+}
+.string1 h2{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 48px;
+    align-items: center;
+    text-align: center;
+    color: #1E1E1E;
+}
+.string2{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 28px;
+    align-items: center;
+    text-align: center;
+    color: #43444B;
+    padding-bottom:40px;
+}
+.block h6{
+    font-family: Mukta;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 28px;
+    align-items: center;
+    text-transform: uppercase;
+    color: #38BDFE;
+    padding-top:24px;
+}
+.block h5{
+    display:flex;
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 28px;
+    align-items: center;
+    color: #1E1E1E;
+}
+.box1 h2{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 48px;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+
+}
+.box1 h5{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 28px;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.color{
+    color:#FFFFFF;
+    padding-top:30px;
+}
+.color1{
+    font-family: Mukta;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 28px;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+.color2{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 48px;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    padding-top:8px;
+}
+.color3{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 28px;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    padding-top:24px;
+}
+
+.lapky{
+    text-align: center;
+}
+
+.elipsee{
+    text-align: center;
+padding-right:10px;
+padding-top:32px;
+
+}
+
+
+.block-title h6{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 28px;
+    align-items: center;
+    text-align: center;
+    color: #1E1E1E;
+    padding-top:36px;
+}
+
+.block-title3 h6{
+    font-family: Mukta;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 28px;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.block-title3 h2{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 48px;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+
+}
+.block-title4 h6{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 28px;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    padding-top:24px;
+}
+.block-title h2{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 48px;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+.block-title h6{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 28px;
+    align-items: center;
+    text-align: center;
+    color: #1E1E1E;
+}
+.block-title1 h6{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    align-items: center;
+    text-align: center;
+    color: #1E1E1E;
+    padding-top:32px;
+}
+.block-title2 h6{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    align-items: center;
+    color: #6E7A82;
+
+}
+.block-5 {
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FFFFFF;
+    padding-top:12px;
+}
+
+.footer-brand{
+    font-family: Mukta;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 28px;
+    padding-top:56px;
+    align-items: center;
+    text-align: center;
+    color: #43444B;
+}
+.text h6{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 28px;
+    padding-top:20px;
+    align-items: center;
+    text-align: center;
+    color: #1E1E1E;
+    padding-top:20px;
+}
+
+.menu li{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    align-items: center;
+    text-align: center;
+    color: #1E1E1E;
+    display:inline;
+    padding-right:52px;
+
+}
+.menu ul{
+    align-items: center;
+    text-align: center;
+    padding-top:20px;
+
+}
+
+
+.end h6{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 24px;
+    align-items: center;
+    text-align:center;
+    color: #6E7A82;
+}
+
+
+
 
 
 .flex-container {
@@ -310,30 +560,7 @@ p{
     align-items: center;
     color: #1E1E1E
 }
-.price{
-    font-family: Source Sans Pro;
-    font-style: normal;
-    font-weight: 600;
-    font-size: 20px;
-    line-height: 28px;
-    color:#1E1E1E;
-}
 
-.title0{
-    margin-top:144px;
-}
-.title{
-    font-family: Mukta;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 18px;
-    line-height: 28px;
-    display: flex;
-    align-items: center;
-    text-transform: uppercase;
-    color: #38BDFE;
-
-}
 .button--primary {
     font-family: Mukta;
     font-style: normal;
@@ -342,25 +569,25 @@ p{
     line-height: 24px;
     border-radius: 28px;
     display: flex;
-    align-items: center;
-    text-align: center;
     padding:12px 44px;
     background: #38BDFE;
     border-radius: 28px;
     color: #EEF4FA;
     margin-right:30px;
-    margin-left:400px;
+    justify-content: center;
+
 
 }
-.button--secondary{
+
+
+
+.button--secondary {
     font-family: Mukta;
     font-style: normal;
     font-weight: 800;
     font-size: 16px;
     line-height: 24px;
     display: flex;
-    align-items: center;
-    text-align: center;
     color: #43444B;
     background: #DBE2E9;
     opacity: 0.3;
@@ -368,13 +595,27 @@ p{
     padding:12px 44px;
 
 }
-.button-group{
-    display:flex;
-    padding-top:64px;
-    text-align: center;
-    text-decoration: none;
-    padding-bottom:144px;
+.button--secondar{
+    background: #FFFFFF;
+    border-radius: 28px;
+    font-family: Mukta;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    color: #43444B;
+    padding:12px 44px;
 }
+.button-group {
+    display:flex;
+    text-decoration: none;
+    padding-top:48px;
+    justify-content: center;
+
+
+}
+
 .button--thirty{
     font-family: Mukta;
     font-style: normal;
@@ -382,218 +623,36 @@ p{
     font-size: 16px;
     line-height: 24px;
     display: flex;
-    align-items: center;
-    text-align: center;
     color: #EEF4FA;
-    margin-top:30px;
     background: #38BDFE;
     border-radius: 28px;
     padding:12px 40px;
-    margin-left:460px;
-
+    justify-content: center;
+    align-items:center;
+}
+.button{
+    margin-top:40px;
+    display:flex;
+    text-decoration: none;
+    justify-content: center;
 }
 
 .box{
     padding:32px;
     background: #FFFFFF;
+    margin-top:232px;
+    margin-bottom:84px;
 }
-.flex-container2 {
-    margin-top:280px;
-    margin-left:400px;
-    display:flex;
-}
-
-.title1{
-    margin-top:144px;
-    align-items: center;
-    text-align: center;
-    color:#FFFFFF;
-}
-.title2{
-    margin-top:38px;
-    align-items: center;
-    text-align: center;
-}
-
-
-.title3{
-    margin-top:144px;
-
-    align-items: center;
-    text-align: center;
-    text-transform: uppercase;
-    color: #FFFFFF;
-}
-.title4{
-    margin-top:40px;
-    align-items: center;
-    text-align: center;
-    color: #FFFFFF;
-}
-.title5{
-    margin-top:72px;
-    align-items: center;
-    text-align: center;
-    color: #FFFFFF;
-
-}
-.title6{
-    line-height: 72px;
-    display: flex;
-    align-items: center;
-    color: #38BDFE;
-
-}
-.title7{
-    display: flex;
-    align-items: center;
-    line-height: 28px;
-    color: #FFFFFF;
-}
-
-
 .block-1{
     line-height: 26px;
-    display: flex;
     align-items: center;
     color: #C5C5C5;
-    margin-top:30px;
-}
-.text8{
-    line-height: 24px;
-    display: flex;
-    align-items: center;
-    color: #66C0EC;
-    font-weight:800px;
-    margin-top:16px;
-}
-.title8{
-    font-weight:bold;
-    color: #20B4FD;
-    margin-top:148px;
-    align-items: center;
-    text-align: center;
-}
-.title9{
-    font-weight: 300;
-    line-height: 28px;
-    align-items: center;
-    text-align: center;
-    color: #1E1E1E;
-    margin-top:36px;
-
-}
-.title10{
-    font-weight:bold;
-    color: #20B4FD;
-    margin-top:32px;
-    align-items: center;
-    text-align: center;
-}
-.title11{
-
-    color: #1E1E1E;
-    margin-top:32px;
-    align-items: center;
-    text-align: center;
-    font-family: Muli;
-    font-style: normal;
-    font-weight: 600;
-    font-size: 16px;
-    line-height: 24px;
-
-
-}
-.title12{
-    color: #6E7A82;
-    align-items: center;
-    text-align: center;
-    font-family: Muli;
-    font-style: normal;
-    font-weight: 300;
-    font-size: 16px;
-    line-height: 24px;
-    margin-bottom:144px;
+    padding-top:30px;
 }
 
-.title13{
-    margin-top:144px;
-    align-items: center;
-    text-align: center;
-    text-transform: uppercase;
-    color: #FFFFFF;
-
+.title{
+    padding-top:48px;
 }
-.title14{
-    line-height: 48px;
-    margin-top:4px;
-    align-items: center;
-    text-align: center;
-    color: #FFFFFF
-}
-.title15{
-    margin-top:4px;
-    font-weight: 300;
-    line-height: 28px;
-    align-items: center;
-    text-align: center;
-    color: #FFFFFF;
-}
-.title16{
-    font-weight: bold;
-    line-height: 72px;
-    display: flex;
-    align-items: center;
-    text-align: center;
-    color: #FFFFFF;
-    margin-left:70px;
-}
-.flex-container3{
-    margin-left:350px;
-    margin-top:60px;
-    display: flex;
-
-}
-.section-7{
-    height: 364px;
-    background-color: #FFFFFF;
-}
-.brand1{
-    margin-top:56px;
-    align-items: center;
-    text-align: center;
-}
-.title17 {
-    font-weight: 300;
-    line-height: 28px;
-    align-items: center;
-    text-align: center;
-    color: #1E1E1E;
-    margin-top:20px;
-}
-.flex-container4{
-    display: flex;
-    flex-direction: row;
-
-}
-.flex-container4>div{
-    padding:10px;
-    margin-top:15px;
-    margin-left:120px;
-    font-weight: 600;
-    line-height: 24px;
-    font-size: 16px;
-    font-family: Muli;
-    font-style: normal;
-    align-items: center;
-    color: #1E1E1E;
-
-}
-.title18{
-    font-weight: 300;
-    line-height: 24px;
-    align-items: center;
-    text-align: center;
-    color: #6E7A82;
-    margin-top:32px;
+.title1{
+    padding-top:40px;
 }
