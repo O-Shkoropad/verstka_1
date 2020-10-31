@@ -252,4 +252,86 @@ nav ul {
 }
 .dark-context{
     background-color:black;
+    color:white;
 }
+.section--xs {
+    padding-top: 28px;
+}
+.dark-context h4{
+    padding-top:234px;
+}
+.block{
+    background-color:white;
+    margin-top:234px;
+}
+.block1{
+    padding-bottom:40px;
+}
+.block1 h2,h5{
+    text-align:center;
+}
+.section--md p{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    display: flex;
+    align-items: center;
+    color: #1E1E1E;
+    padding-left:32px;
+
+}
+.section--md h4,a{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    color: #1E1E1E;
+    padding-top:32px;
+    padding-left:32px;
+}
+.section--lg h1{
+    font-family: Mukta;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 72px;
+    display: flex;
+    align-items: center;
+    color: #38BDFE;
+}
+.section--lg h4{
+    padding-top:30px;
+}
+.section--lg p {
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    display: flex;
+    align-items: center;
+    color: #1E1E1E;
+}
+
+.section--lg h2{
+    text-align:center;
+}
+.section--lg p1 {
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    display: flex;
+    align-items: center;
+    color: #C5C5C5;
+}
+.section--lg h6{
+    padding-top:24px;
+}
+
