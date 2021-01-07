@@ -1,2 +1,3 @@
 # ide-s configs
 .idea
+"node_modules/"
