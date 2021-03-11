@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1cead559-f113-434d-b510-d30b276b2e6d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/myFirstServer/beginner-gulp/src/sass/style.sass" afterPath="$PROJECT_DIR$/myFirstServer/beginner-gulp/src/sass/style.sass" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -56,11 +57,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.sass" pinned="false" current-in-tab="false">
+      <file leaf-file-name="style.sass" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/myFirstServer/beginner-gulp/src/sass/style.sass">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="525" column="19" lean-forward="true" selection-start-line="525" selection-start-column="19" selection-end-line="525" selection-end-column="19" />
+            <state relative-caret-position="641">
+              <caret line="428" column="2" lean-forward="false" selection-start-line="428" selection-start-column="2" selection-end-line="428" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -76,7 +77,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="529">
@@ -134,8 +135,8 @@
         <option value="$PROJECT_DIR$/myFirstServer/beginner-gulp/src/sass/index.sass" />
         <option value="$PROJECT_DIR$/myFirstServer/beginner-gulp/gulpfile.js" />
         <option value="$PROJECT_DIR$/myFirstServer/beginner-gulp/src/css/style.css" />
-        <option value="$PROJECT_DIR$/myFirstServer/beginner-gulp/src/sass/style.sass" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/myFirstServer/beginner-gulp/src/sass/style.sass" />
       </list>
     </option>
   </component>
@@ -430,12 +431,13 @@
       <workItem from="1615438830792" duration="593000" />
       <workItem from="1615448066381" duration="1761000" />
       <workItem from="1615475611814" duration="2260000" />
-      <workItem from="1615482515915" duration="1491000" />
+      <workItem from="1615482515915" duration="1706000" />
+      <workItem from="1615485862576" duration="207000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="216324000" />
+    <option name="totallyTimeSpent" value="216746000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-16" y="-16" width="3232" height="1732" extended-state="1" />
@@ -674,11 +676,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/images/Background image.png" />
     <entry file="file://$PROJECT_DIR$/images/Background image (1).png" />
-    <entry file="file://$PROJECT_DIR$/images/download (2).png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/images/download (2).png" />
     <entry file="file://$PROJECT_DIR$/myFirstServer/beginner-gulp/package-lock.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -738,18 +736,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myFirstServer/beginner-gulp/src/sass/style.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="525" column="19" lean-forward="true" selection-start-line="525" selection-start-column="19" selection-end-line="525" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="529">
           <caret line="231" column="69" lean-forward="false" selection-start-line="231" selection-start-column="69" selection-end-line="231" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myFirstServer/beginner-gulp/src/sass/style.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="641">
+          <caret line="428" column="2" lean-forward="false" selection-start-line="428" selection-start-column="2" selection-end-line="428" selection-end-column="2" />
           <folding />
         </state>
       </provider>
