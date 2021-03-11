@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1cead559-f113-434d-b510-d30b276b2e6d" name="Default" comment="" />
+    <list default="true" id="1cead559-f113-434d-b510-d30b276b2e6d" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/images/background-image.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="$PROJECT_DIR$/myFirstServer/beginner-gulp/package-lock.json" afterPath="$PROJECT_DIR$/myFirstServer/beginner-gulp/package-lock.json" />
+      <change beforePath="$PROJECT_DIR$/myFirstServer/beginner-gulp/src/sass/style.sass" afterPath="$PROJECT_DIR$/myFirstServer/beginner-gulp/src/sass/style.sass" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -17,8 +23,18 @@
       <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/myFirstServer/beginner-gulp/gulpfile.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="17" column="31" lean-forward="false" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+            <state relative-caret-position="480">
+              <caret line="12" column="32" lean-forward="false" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package-lock.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myFirstServer/beginner-gulp/package-lock.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -34,41 +50,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.sass" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myFirstServer/beginner-gulp/src/sass/style.sass">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="16441">
-              <caret line="437" column="22" lean-forward="false" selection-start-line="437" selection-start-column="22" selection-end-line="437" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="797">
-              <caret line="206" column="17" lean-forward="false" selection-start-line="206" selection-start-column="17" selection-end-line="206" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/myFirstServer/beginner-gulp/src/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7884">
-              <caret line="226" column="2" lean-forward="false" selection-start-line="226" selection-start-column="2" selection-end-line="226" selection-end-column="2" />
+            <state relative-caret-position="1360">
+              <caret line="34" column="4" lean-forward="false" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="js app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myFirstServer/js app.js">
+      <file leaf-file-name="style.sass" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myFirstServer/beginner-gulp/src/sass/style.sass">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="12" column="3" lean-forward="false" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+            <state relative-caret-position="0">
+              <caret line="525" column="19" lean-forward="true" selection-start-line="525" selection-start-column="19" selection-end-line="525" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -84,21 +80,50 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="621">
+              <caret line="285" column="38" lean-forward="false" selection-start-line="285" selection-start-column="38" selection-end-line="285" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>log</find>
-      <find>brand</find>
-      <find>titl</find>
-      <find>h6</find>
-      <find>h3</find>
-      <find>h1</find>
-      <find>h2</find>
-      <find>.light-context h2</find>
-      <find>h5</find>
+      <find>.button-gr</find>
+      <find>.sectio</find>
+      <find>.button</find>
+      <find>.man im</find>
+      <find>.light-context</find>
+      <find>.man h5</find>
+      <find>.light-</find>
+      <find>.light-context i</find>
+      <find>.light-context img</find>
+      <find>.light-context c</find>
+      <find>.light-context h6</find>
+      <find>.</find>
+      <find>.footer</find>
+      <find>img</find>
+      <find>footer</find>
+      <find>.light-context im</find>
+      <find>.light-context h5</find>
+      <find>.brand</find>
+      <find>.sect</find>
+      <find>.box</find>
+      <find>.dark-context</find>
       <find>h4</find>
-      <find>p1</find>
+      <find>blo</find>
+      <find>.block</find>
+      <find>.headln</find>
+      <find>.headln_1</find>
+      <find>headln</find>
+      <find>.headln1</find>
+      <find>.coi</find>
+      <find>.headl</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -109,12 +134,12 @@
       <list>
         <option value="$PROJECT_DIR$/myFirstServer/js app.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/myFirstServer/beginner-gulp/src/css/style.css" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/myFirstServer/beginner-gulp/src/sass/index.sass" />
         <option value="$PROJECT_DIR$/myFirstServer/beginner-gulp/gulpfile.js" />
-        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/myFirstServer/beginner-gulp/src/css/style.css" />
         <option value="$PROJECT_DIR$/myFirstServer/beginner-gulp/src/sass/style.sass" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -124,10 +149,14 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/myFirstServer/beginner-gulp/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-16" />
-    <option name="width" value="2023" />
-    <option name="height" value="1000" />
+    <option name="y" value="-16" />
+    <option name="width" value="3232" />
+    <option name="height" value="1732" />
   </component>
   <component name="ProjectId" id="1eZuCCXaFJRtHqdcVjNrHXNllim" />
   <component name="ProjectView">
@@ -146,7 +175,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -158,12 +186,6 @@
               <item name="verstka_1" type="b2602c69:ProjectViewProjectNode" />
               <item name="verstka_1" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="verstka_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="verstka_1" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="verstka_1" type="b2602c69:ProjectViewProjectNode" />
@@ -191,18 +213,11 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="verstka_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="verstka_1" type="462c0819:PsiDirectoryNode" />
-              <item name="myFirstServer" type="462c0819:PsiDirectoryNode" />
-              <item name="beginner-gulp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sass" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -215,14 +230,15 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Kusichka\WebstormProjects\verstka_1\myFirstServer\beginner-gulp\src\sass\images" />
       <recent name="C:\Users\Kusichka\WebstormProjects\verstka_1" />
       <recent name="C:\Users\Kusichka\WebstormProjects\verstka_1\css" />
       <recent name="C:\Users\Kusichka\WebstormProjects\verstka_1\myFirstServer\beginner-gulp\src\css" />
       <recent name="C:\Users\Kusichka\WebstormProjects\verstka_1\myFirstServer\beginner-gulp" />
-      <recent name="C:\Users\Kusichka\WebstormProjects\verstka_1\myFirstServer\beginner-gulp\src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -294,23 +310,147 @@
       <workItem from="1610032776515" duration="1642000" />
       <workItem from="1610034587827" duration="1482000" />
       <workItem from="1610036625794" duration="595000" />
-      <workItem from="1610044228502" duration="1336000" />
+      <workItem from="1610044228502" duration="1930000" />
+      <workItem from="1610473571166" duration="654000" />
+      <workItem from="1610997896414" duration="779000" />
+      <workItem from="1611085846008" duration="325000" />
+      <workItem from="1611840100129" duration="1770000" />
+      <workItem from="1613668400705" duration="606000" />
+      <workItem from="1613905579224" duration="1864000" />
+      <workItem from="1613907519420" duration="261000" />
+      <workItem from="1613907814285" duration="1956000" />
+      <workItem from="1613909845643" duration="1406000" />
+      <workItem from="1613912170488" duration="915000" />
+      <workItem from="1613914028953" duration="2108000" />
+      <workItem from="1613931481646" duration="1760000" />
+      <workItem from="1613933290236" duration="859000" />
+      <workItem from="1613978844290" duration="1858000" />
+      <workItem from="1613980794959" duration="1829000" />
+      <workItem from="1613989924393" duration="1347000" />
+      <workItem from="1614073313154" duration="1891000" />
+      <workItem from="1614075253176" duration="725000" />
+      <workItem from="1614078044233" duration="593000" />
+      <workItem from="1614082471508" duration="1291000" />
+      <workItem from="1614084298644" duration="593000" />
+      <workItem from="1614091537411" duration="971000" />
+      <workItem from="1614154786153" duration="606000" />
+      <workItem from="1614157903729" duration="594000" />
+      <workItem from="1614272391986" duration="1742000" />
+      <workItem from="1614274204246" duration="726000" />
+      <workItem from="1614276340804" duration="1752000" />
+      <workItem from="1614278152018" duration="1762000" />
+      <workItem from="1614279976614" duration="1762000" />
+      <workItem from="1614281866747" duration="1759000" />
+      <workItem from="1614283693948" duration="379000" />
+      <workItem from="1614323708705" duration="601000" />
+      <workItem from="1614329711157" duration="1751000" />
+      <workItem from="1614331528346" duration="1758000" />
+      <workItem from="1614333376295" duration="2135000" />
+      <workItem from="1614340753309" duration="2148000" />
+      <workItem from="1614343828994" duration="1638000" />
+      <workItem from="1614352629401" duration="1766000" />
+      <workItem from="1614354477487" duration="1711000" />
+      <workItem from="1614356322183" duration="843000" />
+      <workItem from="1614363834701" duration="1761000" />
+      <workItem from="1614365659048" duration="1783000" />
+      <workItem from="1614534248866" duration="1470000" />
+      <workItem from="1614536202069" duration="1657000" />
+      <workItem from="1614765678361" duration="1749000" />
+      <workItem from="1614767505482" duration="1752000" />
+      <workItem from="1614770777388" duration="1315000" />
+      <workItem from="1614775601748" duration="1227000" />
+      <workItem from="1614777440684" duration="1855000" />
+      <workItem from="1614780474948" duration="1777000" />
+      <workItem from="1614782330148" duration="1768000" />
+      <workItem from="1614784436716" duration="1433000" />
+      <workItem from="1614787247494" duration="1746000" />
+      <workItem from="1614789087086" duration="2233000" />
+      <workItem from="1614793010188" duration="1767000" />
+      <workItem from="1614794852280" duration="748000" />
+      <workItem from="1614797350619" duration="1749000" />
+      <workItem from="1614799184979" duration="1620000" />
+      <workItem from="1614842608509" duration="2346000" />
+      <workItem from="1614846477988" duration="1826000" />
+      <workItem from="1614849854404" duration="1741000" />
+      <workItem from="1614851661911" duration="2110000" />
+      <workItem from="1614856541709" duration="1765000" />
+      <workItem from="1614858558568" duration="1803000" />
+      <workItem from="1614860434986" duration="627000" />
+      <workItem from="1614952815802" duration="1506000" />
+      <workItem from="1614955416076" duration="602000" />
+      <workItem from="1614971102455" duration="1757000" />
+      <workItem from="1614972962382" duration="1442000" />
+      <workItem from="1615037165224" duration="1833000" />
+      <workItem from="1615039272167" duration="1755000" />
+      <workItem from="1615041199755" duration="1672000" />
+      <workItem from="1615045597478" duration="778000" />
+      <workItem from="1615050278075" duration="1754000" />
+      <workItem from="1615052115180" duration="1815000" />
+      <workItem from="1615054115914" duration="1759000" />
+      <workItem from="1615055961282" duration="1760000" />
+      <workItem from="1615058975550" duration="1066000" />
+      <workItem from="1615061119798" duration="562000" />
+      <workItem from="1615099532962" duration="1756000" />
+      <workItem from="1615101414346" duration="1183000" />
+      <workItem from="1615103898840" duration="749000" />
+      <workItem from="1615108370358" duration="2237000" />
+      <workItem from="1615111351588" duration="1196000" />
+      <workItem from="1615114010790" duration="1155000" />
+      <workItem from="1615116811487" duration="1149000" />
+      <workItem from="1615123710996" duration="1743000" />
+      <workItem from="1615125540895" duration="1548000" />
+      <workItem from="1615131988301" duration="1756000" />
+      <workItem from="1615133847702" duration="1949000" />
+      <workItem from="1615138442340" duration="1944000" />
+      <workItem from="1615141704816" duration="1799000" />
+      <workItem from="1615143598137" duration="1835000" />
+      <workItem from="1615145514128" duration="1766000" />
+      <workItem from="1615159299346" duration="1697000" />
+      <workItem from="1615161522397" duration="660000" />
+      <workItem from="1615191079912" duration="683000" />
+      <workItem from="1615196832880" duration="2169000" />
+      <workItem from="1615202877453" duration="832000" />
+      <workItem from="1615211550969" duration="1644000" />
+      <workItem from="1615227165143" duration="1331000" />
+      <workItem from="1615297262331" duration="1754000" />
+      <workItem from="1615299090784" duration="1761000" />
+      <workItem from="1615300923024" duration="1764000" />
+      <workItem from="1615302757068" duration="2170000" />
+      <workItem from="1615305190577" duration="1598000" />
+      <workItem from="1615311400300" duration="1762000" />
+      <workItem from="1615313735137" duration="2040000" />
+      <workItem from="1615315891914" duration="2228000" />
+      <workItem from="1615319960672" duration="1755000" />
+      <workItem from="1615321787260" duration="615000" />
+      <workItem from="1615355548424" duration="2009000" />
+      <workItem from="1615358566106" duration="648000" />
+      <workItem from="1615387401081" duration="1747000" />
+      <workItem from="1615389240034" duration="1753000" />
+      <workItem from="1615391064201" duration="1771000" />
+      <workItem from="1615397145683" duration="1147000" />
+      <workItem from="1615398993583" duration="639000" />
+      <workItem from="1615403888156" duration="1495000" />
+      <workItem from="1615428460117" duration="1289000" />
+      <workItem from="1615438830792" duration="593000" />
+      <workItem from="1615448066381" duration="1761000" />
+      <workItem from="1615475611814" duration="2260000" />
+      <workItem from="1615482515915" duration="929000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33416000" />
+    <option name="totallyTimeSpent" value="215762000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-16" y="-16" width="3232" height="1732" extended-state="6" />
+    <frame x="-16" y="-16" width="3232" height="1732" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3103125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -323,6 +463,25 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -353,93 +512,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/myFirstServer/beginner-gulp/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myFirstServer/beginner-gulp/src/sass/style.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/normalize.css" />
-    <entry file="file://$PROJECT_DIR$/myFirstServer/beginner-gulp/src/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myFirstServer/beginner-gulp/src/css/normalize.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/myFirstServer/js app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="12" column="3" lean-forward="false" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="2" column="15" lean-forward="false" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="3" column="6" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css" />
-    <entry file="file://$PROJECT_DIR$/myFirstServer/beginner-gulp/src/sass/style.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/normalize.css" />
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="5" column="26" lean-forward="false" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myFirstServer/beginner-gulp/src/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myFirstServer/js app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="12" column="3" lean-forward="false" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -489,7 +565,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="12" column="3" lean-forward="false" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -539,7 +614,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -572,7 +646,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -586,6 +659,44 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/myFirstServer/beginner-gulp/src/css/sass/index.sass" />
     <entry file="file://$PROJECT_DIR$/myFirstServer/beginner-gulp/src/css/package-lock.json" />
+    <entry file="file://$PROJECT_DIR$/myFirstServer/js app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="12" column="3" lean-forward="false" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/css/normalize.css" />
+    <entry file="file://$PROJECT_DIR$/css/.idea/css.iml" />
+    <entry file="file://$PROJECT_DIR$/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/myFirstServer/beginner-gulp/src/css/index.css" />
+    <entry file="file://$PROJECT_DIR$/images/favicon.svg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Background image.png" />
+    <entry file="file://$PROJECT_DIR$/images/Background image (1).png" />
+    <entry file="file://$PROJECT_DIR$/images/download (2).png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myFirstServer/beginner-gulp/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/background.png" />
+    <entry file="file://$PROJECT_DIR$/images/lapky.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/myFirstServer/beginner-gulp/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
@@ -594,23 +705,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/images/backgroundimage.png" />
+    <entry file="file://$PROJECT_DIR$/images/background_image.png" />
+    <entry file="file://$PROJECT_DIR$/images/background-image.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/background-image (1).png" />
+    <entry file="file://$PROJECT_DIR$/images/background.png" />
+    <entry file="file://$PROJECT_DIR$/images/download (1).png" />
     <entry file="file://$PROJECT_DIR$/myFirstServer/beginner-gulp/src/css/normalize.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
+        <state relative-caret-position="379">
           <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myFirstServer/js app.js">
+    <entry file="file://$PROJECT_DIR$/myFirstServer/beginner-gulp/src/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="12" column="3" lean-forward="false" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        <state relative-caret-position="1360">
+          <caret line="34" column="4" lean-forward="false" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css" />
-    <entry file="file://$PROJECT_DIR$/css/normalize.css" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
@@ -619,37 +734,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/.idea/css.iml" />
-    <entry file="file://$PROJECT_DIR$/css/style.css" />
-    <entry file="file://$PROJECT_DIR$/myFirstServer/beginner-gulp/src/css/index.css" />
-    <entry file="file://$PROJECT_DIR$/myFirstServer/beginner-gulp/src/css/style.css">
+    <entry file="file://$PROJECT_DIR$/myFirstServer/beginner-gulp/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7884">
-          <caret line="226" column="2" lean-forward="false" selection-start-line="226" selection-start-column="2" selection-end-line="226" selection-end-column="2" />
+        <state relative-caret-position="480">
+          <caret line="12" column="32" lean-forward="false" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myFirstServer/beginner-gulp/src/sass/style.sass">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16441">
-          <caret line="437" column="22" lean-forward="false" selection-start-line="437" selection-start-column="22" selection-end-line="437" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myFirstServer/beginner-gulp/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="17" column="31" lean-forward="false" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        <state relative-caret-position="0">
+          <caret line="525" column="19" lean-forward="true" selection-start-line="525" selection-start-column="19" selection-end-line="525" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="797">
-          <caret line="206" column="17" lean-forward="false" selection-start-line="206" selection-start-column="17" selection-end-line="206" selection-end-column="17" />
+        <state relative-caret-position="621">
+          <caret line="285" column="38" lean-forward="false" selection-start-line="285" selection-start-column="38" selection-end-line="285" selection-end-column="38" />
           <folding />
         </state>
       </provider>
