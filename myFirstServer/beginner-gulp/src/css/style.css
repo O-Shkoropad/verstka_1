@@ -2,7 +2,7 @@ body {
   margin: 0; }
 
 .dark-context {
-  background-image: linear-gradient(#0A122A, #084B8A); }
+  background-image: linear-gradient(#0B243B, #084B8A); }
 
 .dark-content {
   background-color: #0B173B; }
@@ -172,7 +172,8 @@ h6 {
   padding-bottom: 40px; }
 
 .picture {
-  padding-top: 40px; }
+  padding-top: 40px;
+  display: table-cell; }
 
 /*dark-content/* */
 .dark-content h5 {
@@ -245,14 +246,6 @@ h6 {
   color: #1E1E1E;
   padding-top: 16px; }
 
-.link_1 {
-  font-family: Mukta;
-  font-style: normal;
-  font-weight: 800;
-  font-size: 16px;
-  line-height: 24px;
-  color: #66C0EC; }
-
 .text {
   font-style: normal;
   font-weight: 300;
@@ -263,16 +256,10 @@ h6 {
   padding-bottom: 32px;
   color: #6E7A82; }
 
-.light-content h6 {
-  font-style: normal;
-  font-weight: 300;
-  font-size: 16px;
-  line-height: 24px;
-  text-align: center;
-  color: #6E7A82; }
-
+/*title*/
 .title {
-  float: left; }
+  display: block;
+  text-align: left; }
 
 .title h6 {
   font-style: normal;
@@ -283,7 +270,8 @@ h6 {
   font-family: Mukta;
   text-transform: uppercase;
   text-align: left;
-  padding-top: 24px; }
+  padding-top: 24px;
+  display: block; }
 
 .title h5 {
   font-family: Source Sans Pro;
@@ -335,6 +323,14 @@ h6 {
   text-align: center;
   color: #1E1E1E; }
 
+.autor {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+  color: #6E7A82; }
+
 .light-content img {
   align-items: center; }
 
@@ -356,6 +352,14 @@ h6 {
   font-size: 16px;
   line-height: 24px;
   color: #38BDFE; }
+
+.link_1 {
+  font-family: Mukta;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 16px;
+  line-height: 24px;
+  color: #66C0EC; }
 
 /*nav ul li a*/
 nav ul {
