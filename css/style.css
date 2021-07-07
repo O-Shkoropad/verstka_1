@@ -250,3 +250,7 @@ nav ul {
     background-image: url("images_Background image.png");
     background-blend-mode: overlay;
 }
+.dark-context{
+    background-color:black;
+    color:white;
+}
